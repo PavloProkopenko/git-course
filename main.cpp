@@ -32,4 +32,6 @@ int main()
 
     cout << "Information about you\n\tName\t\tAge\t\tHeight\t\tWeight\t\t" << endl;
     cout << "\t" << User.Name << "\t\t" << User.Age << "\t\t" << User.Height << "\t\t" << User.Weight << endl;
+
+    cout << "This program created by @PavloProkopenko" << endl; // I will use this string for update repository remotely
 }
